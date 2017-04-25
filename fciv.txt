@@ -1,0 +1,6 @@
+//
+// File Checksum Integrity Verifier version 2.05.
+//
+		MD5				SHA-1
+-------------------------------------------------------------------------
+746be0ff47680b7e3a670553493e5ed3 909134e5c8467d22d4607bad7910c2d0a705c962 filipemouraoleite_questao8.rar
